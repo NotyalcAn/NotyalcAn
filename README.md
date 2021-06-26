@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... everything?
 - 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m still learning!
 
